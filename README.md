@@ -16,7 +16,7 @@ Click [here](https://canvas.harvard.edu/courses/69636/assignments/329803?module_
 ## Tools and frameworks used to build
 
 * [iTerm2](https://www.iterm2.com/) - Terminal.
-* Nodejs v12.14.1 (locally) v8.10.0 (on DO)
+* Nodejs v12.14.1 (locally and on DO)
 * VS Code Editor
 * nano editor for terminal editing
 

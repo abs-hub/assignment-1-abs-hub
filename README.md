@@ -19,3 +19,10 @@ Click [here](https://canvas.harvard.edu/courses/69636/assignments/329803?module_
 * Nodejs v12.14.1 (locally) v8.10.0 (on DO)
 * VS Code Editor
 * nano editor for terminal editing
+
+## Important commands
+* `ps aux | grep node` to find node process.
+* `kill pid` to kill a process by id.
+* `nohup node stringserver &` used to make the server run after closing the ssh terminal window.
+* `sudo ufw allow 8080` to open 8080 port.
+* `ssh-add ~/.ssh/my-pvt-ssh-key` to add my private key in case I have multiple SSH keys.
